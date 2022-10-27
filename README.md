@@ -17,9 +17,9 @@ The goal of the program is to achieve following:
 
 > Program uses Python 3.10.6 version and Jupyter Lab
 
-Program uses 'Pandas' library to work with dataframes and analyse timeseries data. 
-Program uses 'hvplot.pandas' libraries for visualization 
-Most importantly 'Voila' is used to convert notebook file into an web application.
+* Program uses 'Pandas' library to work with dataframes and analyse timeseries data. 
+* Program uses 'hvplot.pandas' libraries for visualization 
+* Most importantly 'Voila' is used to convert notebook file into an web application.
 
 ---
 
@@ -39,11 +39,11 @@ Program runs in jupyter. Therefore its important to install Jupyter. If you alre
 ---
 ## Usage
 
-> Jupyter lab
-> Go to -> localhost:8888/lab/tree
-> Choose a Notebook
-> Use run function of Notebook
-> Go to folder path where notebook file 'etf_analyzer.ipynb' resides in Terminal and then execute 'voila etf_analyzer.ipynb' command
+> * Jupyter lab
+> * Go to -> localhost:8888/lab/tree
+> * Choose a Notebook
+> * Use run function of Notebook
+> * Go to folder path where notebook file 'etf_analyzer.ipynb' resides in Terminal and then execute 'voila etf_analyzer.ipynb' command
 
 ---
 ## Contributors
