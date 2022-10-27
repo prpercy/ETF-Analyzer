@@ -44,7 +44,9 @@ Program runs in jupyter. Therefore its important to install Jupyter. If you alre
 > * Choose a Notebook
 > * Use run function of Notebook
 > * Go to folder path where notebook file 'etf_analyzer.ipynb' resides in Terminal and then execute 'voila etf_analyzer.ipynb' command
-    > ![Web App Using Voila](https://github.com/prpercy/module7/blob/main/ETF_analyzer_webapp_voila.mp4)
+    > ![Video Web App Using Voila](https://github.com/prpercy/module7/blob/main/ETF_analyzer_webapp_voila.mp4)
+    > ![Image 1 Web App Using Voila](https://github.com/prpercy/module7/blob/main/Webapp_etf_voila_1.png)
+    > ![Image 2 Web App Using Voila](https://github.com/prpercy/module7/blob/main/Webapp_etf_voila_2.png)
 ---
 ## Contributors
 
